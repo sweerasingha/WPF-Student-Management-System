@@ -12,6 +12,7 @@
         Background="{DynamicResource MaterialDesignPaper}"
         FontFamily="{StaticResource MaterialDesignFont}"
         WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
         >
     <Window.Resources>
         <Style x:Key="CircularMaterialDesignRaisedButton" TargetType="Button" BasedOn="{StaticResource MaterialDesignRaisedButton}">
